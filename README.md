@@ -1,4 +1,4 @@
-# Hi there, I’m Dillya 👋
+# Hi there, I’m Illya 👋
 
 I’m a passionate Full-Stack Developer and University of Twente graduate with a **Bachelor’s in Business & Computer Science**. I love building end-to-end solutions that solve real business problems and deliver great user experiences.
 
