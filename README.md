@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I’m Dillya 👋
 
-<!--
-**SOLODILLYA/SOLODILLYA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate Full-Stack Developer and University of Twente graduate with a **Bachelor’s in Business & Computer Science**. I love building end-to-end solutions that solve real business problems and deliver great user experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 **Education:** BSc Business & Computer Science, University of Twente  
+- 💼 **Current Focus:** Full-stack web applications (Spring Boot & React.js)  
+- 💡 **Passions:** Clean architecture, secure design, data visualization, and continuous delivery  
+- 🌍 **Based in:** The Netherlands
+
+---
+
+## 🌱 I’m Learning
+
+- Software Development
+- Real-Time Gesture Recognition
+- Progressive Web Apps (PWA)  
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 📫 Email: solodillya@gmail.com
+- 🐙 GitHub: [SOLODILLYA](https://github.com/SOLODILLYA)  
